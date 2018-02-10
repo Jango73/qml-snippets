@@ -1,5 +1,5 @@
 import QtQuick 2.5
-import "../../../system/js/Utils.js" as Utils
+import "../Utils.js" as Utils
 
 /*!
     \brief This is a 2D+ material and lighting shader, using PBR algorithms.
